@@ -1,7 +1,13 @@
 /*
-	Austin Marcus - aim792@pitt.edu
-	CS401 - Spring 2016
-	Project 5: Boggle
+*	Boggle - a text-only Java version.
+*	Compile this class and you're good to go.
+*	
+*	Copyright (c) 2016 Austin Marcus.
+*	All rights reserved.
+*
+*	This file is part of CommandLineBoggle,
+*	and is made available under the terms of
+*	the GNU Public License (see LICENSE).
 */
 
 import java.util.Scanner;
