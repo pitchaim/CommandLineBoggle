@@ -1,3 +1,15 @@
+/*
+*	
+*	Back-end gameplay manager for text-based Boggle.
+*
+*	Copyright (c) 2016 Austin Marcus.
+*	All rights reserved.
+*
+*	This file is part of CommandLineBoggle,
+*	and is made available under the terms of
+*	the GNU Public License (see LICENSE).
+*/
+
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
